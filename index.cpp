@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// This program reads two lists of integers, sorts them, and counts how many integers from the first list
+// are present in the second list using binary search.
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
